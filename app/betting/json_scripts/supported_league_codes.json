@@ -1,0 +1,208 @@
+{
+    "data": [
+        {
+            "ncaaf": [
+                {
+                    "code": "FBC",
+                    "name": "College Football"
+                }
+            ]
+        },
+        {
+            "golf": [
+                {
+                    "code": "EGA",
+                    "name": "European Golf Association"
+                },
+                {
+                    "code": "DGA",
+                    "name": "Korn Ferry Tour"
+                },
+                {
+                    "code": "AUGA",
+                    "name": "PGA of Australia"
+                },
+                {
+                    "code": "PGA",
+                    "name": "Professional Golfers Association"
+                }
+            ]
+        },
+        {
+            "mlb": [
+                {
+                    "code": "BBM",
+                    "name": "Major League Baseball"
+                }
+            ]
+        },
+        {
+            "ncaab": [
+                {
+                    "code": "BKC",
+                    "name": "Men's College Basketball"
+                }
+            ]
+        },
+        {
+            "mma": [
+                {
+                    "code": "MMA",
+                    "name": "Mixed Martial Arts"
+                }
+            ]
+        },
+        {
+            "nba": [
+                {
+                    "code": "BKP",
+                    "name": "National Basketball Association"
+                }
+            ]
+        },
+        {
+            "nfl": [
+                {
+                    "code": "FBP",
+                    "name": "National Football League"
+                }
+            ]
+        },
+        {
+            "nhl": [
+                {
+                    "code": "HKN",
+                    "name": "National Hockey League"
+                }
+            ]
+        },
+        {
+            "olympics": [
+                {
+                    "code": "OLY",
+                    "name": "Olympics"
+                }
+            ]
+        },
+        {
+            "soccer": [
+                {
+                    "code": "SOAUA",
+                    "name": "A-League"
+                },
+                {
+                    "code": "SOASI",
+                    "name": "AFC Asian Cup"
+                },
+                {
+                    "code": "SCAFC",
+                    "name": "AFC Champions League"
+                },
+                {
+                    "code": "SOR",
+                    "name": "Argentina Soccer"
+                },
+                {
+                    "code": "SOG",
+                    "name": "Bundesliga"
+                },
+                {
+                    "code": "SCNA",
+                    "name": "CONCACAF Champions League"
+                },
+                {
+                    "code": "SCC",
+                    "name": "Club World Cup"
+                },
+                {
+                    "code": "SOC",
+                    "name": "Copa Soccer"
+                },
+                {
+                    "code": "SOEFL",
+                    "name": "EFL Cup"
+                },
+                {
+                    "code": "SOE",
+                    "name": "English Premier League"
+                },
+                {
+                    "code": "SOEFA",
+                    "name": "FA Cup"
+                },
+                {
+                    "code": "SONCC",
+                    "name": "Gold Cup"
+                },
+                {
+                    "code": "SOINT",
+                    "name": "Internationals"
+                },
+                {
+                    "code": "SOS",
+                    "name": "La Liga"
+                },
+                {
+                    "code": "SOELC",
+                    "name": "League Championship"
+                },
+                {
+                    "code": "SOF",
+                    "name": "Ligue 1"
+                },
+                {
+                    "code": "SOM",
+                    "name": "Major League Soccer"
+                },
+                {
+                    "code": "OLYSM",
+                    "name": "Olympics Men's Soccer"
+                },
+                {
+                    "code": "OLYSW",
+                    "name": "Olympics Women's Soccer"
+                },
+                {
+                    "code": "SOI",
+                    "name": "Serie A"
+                },
+                {
+                    "code": "SCB",
+                    "name": "UEFA Champions League"
+                },
+                {
+                    "code": "SCU",
+                    "name": "UEFA Europa League"
+                },
+                {
+                    "code": "SOA",
+                    "name": "UEFA European Championship"
+                },
+                {
+                    "code": "SOWW",
+                    "name": "Women's World Cup"
+                },
+                {
+                    "code": "SOW",
+                    "name": "World Cup"
+                }
+            ]
+        },
+        {
+            "tennis": [
+                {
+                    "code": "TEN",
+                    "name": "Tennis"
+                }
+            ]
+        },
+        {
+            "wnba": [
+                {
+                    "code": "BKD",
+                    "name": "Women's National Basketball Association"
+                }
+            ]
+        }
+    ]
+}
